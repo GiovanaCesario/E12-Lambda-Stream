@@ -1,4 +1,4 @@
-# Lambda + Stream
+# Atividade Lambda + Stream
 
 ## Instruções:
 

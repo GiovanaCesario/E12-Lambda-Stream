@@ -10,8 +10,6 @@ import org.example.conexao.FalhaConexaoException;
 import org.example.conta.Conta;
 import org.example.conta.contaDAO.*;
 import org.example.contaCliente.ContaClienteDAO;
-import org.example.contaCliente.ContaClienteExistenteException;
-import org.example.contaCliente.ContaClienteNaoEncontradoException;
 
 import java.util.List;
 
